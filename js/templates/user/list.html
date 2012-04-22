@@ -1,0 +1,13 @@
+<%
+	var attr;
+	_.each(data.models, function each(user) {
+		attr = user.attributes;
+%>
+	<li>
+		<div>
+			<strong>Username</strong><label><%= attr.username %></label>
+			<strong>Email</strong><label><%= attr.email %></label>
+		</div>
+	</li>
+<% }); %>
+
