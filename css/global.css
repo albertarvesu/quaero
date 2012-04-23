@@ -1,0 +1,48 @@
+	li {
+		list-style: none;
+	}
+
+	.pad-sm {
+		padding: 3px;
+	}
+
+	.pad-med {
+		padding: 5px;
+	}
+
+	.pad-large {
+		padding: 10px;
+	}
+
+	.blk {
+		display:block;
+		clear: left;
+	}
+
+	.round-corners {
+		border-radius: 5px; 
+		-moz-border-radius: 5px; 
+		-webkit-border-radius: 5px; 
+	}
+
+	.clearfix:after {
+		content: ".";
+		display: block;
+		clear: both;
+		visibility: hidden;
+		line-height: 0;
+		height: 0;
+	}
+	 
+	.clearfix {
+		display: inline-block;
+	}
+	 
+	html[xmlns] .clearfix {
+		display: block;
+	}
+	 
+	* html .clearfix {
+		height: 1%;
+	}
+

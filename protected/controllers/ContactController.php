@@ -2,6 +2,14 @@
 
 class ContactController extends Controller
 {
+	private $_indexFiles = 'runtime.search';
+
+	public function init(){
+		Yii::import('application.vendors.*');
+		require_once('Zend/Search/Lucene.php');
+		parent::init(); 
+	}
+
 	public function actionIndex()
 	{
 
@@ -18,7 +26,24 @@ class ContactController extends Controller
 
 	public function actionSearch()
 	{
-		$this->render('search');
+
+		$term = isset($_GET['q']) ? trim($_GET['q']) : NULL;
+
+		if($term) {
+			$index = new Zend_Search_Lucene(Yii::getPathOfAlias('application.' . $this->_indexFiles));
+			$results = $index->find($term);
+
+			$contacts = array();
+			foreach($results as $result) {
+				$user_id = Yii::app()->session['user_id'];
+				//$isFriends = UserContact::model()->findByAttributes(array('contact_id'=>$result->contact_id, 'user_id'=>$user_id));
+				//if( $isFriends ) {
+					$contacts[] = Contact::model()->findByPk($result->contact_id);
+				//}
+			}
+			$this->render('index', array('contacts'=>$contacts));
+		}
+
 	}
 
 	public function actionFetch()

@@ -1,0 +1,36 @@
+body {
+	background-color: #AAA;
+}
+
+.search-results {
+	border: solid 1px #EEE;
+	width: 800px;
+}
+
+.search-results li{
+	width: inherit;
+	border-bottom: 1px solid #EEE;
+	background-color: #FFF;
+}
+
+.search-results li .sn-icon {
+	background: url("../img/small_facebook_icon.png") no-repeat scroll 0 0 transparent;
+	display: block;
+	float: left;
+	height: 16px;
+	position: absolute;
+	text-indent: -999px;
+	width: 16px;
+	z-index: 50;
+}
+
+.search-results li .avatar {
+	background: url("../img/default_avatars.png") no-repeat scroll 0 0 transparent;
+	display: block;
+	height: 50px;
+	width: 50px;
+}
+
+.search-results li .avatar.female {
+	background-position: -50px 0;
+}
