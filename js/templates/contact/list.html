@@ -12,7 +12,7 @@ if(length > 0) {
 			fullName = attr.first_name + " " + (attr.middle_name || "") + " " + attr.last_name;
 	%>
 		<li class="clearfix">
-			<div class="pull-left pad-large">
+			<div class="pull-left pad-med">
 				<a href="<%= attr.link %>" title="<%= fullName %>">
 					<span class="sn-icon"><%= attr.provider %></span>
 					<% if(attr.picture) { %>
@@ -22,9 +22,10 @@ if(length > 0) {
 					<% } %>
 				</a>
 			</div>
-			<div class="pull-left">
+			<div class="pull-left pad-med">
 				<a href="<%= attr.link %>" target="_blank" title="<%= fullName %>"><strong class="username"><%= name %></strong></a>
 				<em class="blk"><%= fullName %></em>
+				<a class="btn btn-mini btn-info mrg-t-med" href="#">View More</a>
 			</div>
 		</li>
 	<% }); %>

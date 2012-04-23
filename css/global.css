@@ -2,17 +2,27 @@
 		list-style: none;
 	}
 
-	.pad-sm {
-		padding: 3px;
-	}
+	.pad-sm { padding: 3px; }
+	.mrg-sm { margin: 3px; }
+	.pad-t-sm { padding-top: 3px; }
+	.mrg-t-sm { margin-top: 3px; }
+	.pad-l-sm { padding-left: 3px; }
+	.mrg-l-sm { margin-left: 3px; }
 
-	.pad-med {
-		padding: 5px;
-	}
 
-	.pad-large {
-		padding: 10px;
-	}
+	.pad-med { padding: 5px; }
+	.mrg-med { margin: 5px; }
+	.pad-t-med { padding-top: 5px; }
+	.mrg-t-med { margin-top: 5px; }
+	.pad-l-med { padding-left: 5px; }
+	.mrg-l-med { margin-left: 5px; }
+
+	.pad-large { padding: 10px; }
+	.mrg-large { margin: 10px; }
+	.pad-t-large { padding-top: 10px; }
+	.mrg-t-large { margin-top: 10px; }
+	.pad-l-large { padding-left: 10px; }
+	.mrg-l-large { margin-left: 10px; }
 
 	.blk {
 		display:block;
