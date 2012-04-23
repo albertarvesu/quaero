@@ -4,6 +4,6 @@ define([
 	'backbone'
 	],
 	function($, _, Backbone) {
-		var user = Backbone.Model.extend({});
-		return user;
+		var contact = Backbone.Model.extend({});
+		return contact;
 	});

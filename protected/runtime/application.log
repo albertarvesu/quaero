@@ -47,3 +47,2688 @@ in /var/www/quaero/index.php (16)
 2012/04/23 10:01:01 [trace] [system.db.CDbCommand] Querying SQL: SELECT `contacts`.`id` AS `t1_c0`, `contacts`.`name` AS `t1_c1`, `contacts`.`first_name` AS `t1_c2`, `contacts`.`middle_name` AS `t1_c3`, `contacts`.`last_name` AS `t1_c4`, `contacts`.`link` AS `t1_c5`, `contacts`.`username` AS `t1_c6`, `contacts`.`provider` AS `t1_c7`, `contacts`.`gender` AS `t1_c8`, `contacts`.`timezone` AS `t1_c9`, `contacts`.`locale` AS `t1_c10`, `contacts`.`picture` AS `t1_c11`, `contacts`.`birthday` AS `t1_c12`, `contacts`.`logged_in` AS `t1_c13`, `contacts`.`created_date` AS `t1_c14`, `contacts`.`updated_date` AS `t1_c15` FROM `tbl_contact` `contacts`  INNER JOIN `tbl_user_contact` `contacts_contacts` ON (`contacts_contacts`.`user_id`=:ypl0) AND (`contacts`.`id`=`contacts_contacts`.`contact_id`)
 in /var/www/quaero/protected/controllers/ContactController.php (12)
 in /var/www/quaero/index.php (16)
+2012/04/23 10:57:58 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 10:57:58 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 10:57:58 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 10:57:59 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 10:57:59 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 10:57:59 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 10:58:57 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 10:58:57 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 10:58:57 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 10:58:57 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 10:58:57 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 10:58:57 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 10:59:44 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 10:59:44 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 10:59:44 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 10:59:44 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 10:59:44 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 10:59:44 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:03:50 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:03:50 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:03:50 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:03:50 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:03:50 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:03:50 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:51 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:51 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:51 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:51 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:51 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:51 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:51 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:51 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:51 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:51 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:51 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:51 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:51 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:51 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:51 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:51 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:51 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:51 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:51 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:51 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:51 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:52 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:52 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:52 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:53 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:53 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:53 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:53 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:53 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:04:53 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:05:04 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:05:04 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:05:04 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:05:04 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:05:04 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:05:04 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:05:05 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:05:05 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:05:05 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:05:05 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:05:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in /var/www/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/yii/framework/web/CController.php(271): CController->missingAction('')
+#1 /var/www/yii/framework/web/CWebApplication.php(276): CController->run('')
+#2 /var/www/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('user')
+#3 /var/www/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/quaero/index.php(16): CApplication->run()
+#5 {main}
+REQUEST_URI=/quaero/user
+HTTP_REFERER=http://localhost/quaero/
+---
+2012/04/23 11:05:05 [trace] [system.CModule] Loading "errorHandler" application component
+2012/04/23 11:08:04 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:08:04 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:08:04 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:08:04 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:08:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "search".' in /var/www/yii/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/yii/framework/web/CController.php(271): CController->missingAction('search')
+#1 /var/www/yii/framework/web/CWebApplication.php(276): CController->run('search')
+#2 /var/www/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('user/search/q/s')
+#3 /var/www/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/quaero/index.php(16): CApplication->run()
+#5 {main}
+REQUEST_URI=/quaero/user/search/q/s
+HTTP_REFERER=http://localhost/quaero/
+---
+2012/04/23 11:08:04 [trace] [system.CModule] Loading "errorHandler" application component
+2012/04/23 11:12:32 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:12:32 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:12:32 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:12:32 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:12:32 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:12:32 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:12:33 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:12:33 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:12:33 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:12:33 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:12:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/collection/userCollection.js".' in /var/www/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('js/collection/u...')
+#1 /var/www/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/quaero/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/quaero/js/collection/userCollection.js
+HTTP_REFERER=http://localhost/quaero/
+---
+2012/04/23 11:12:33 [trace] [system.CModule] Loading "errorHandler" application component
+2012/04/23 11:16:39 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:16:39 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:16:39 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:16:39 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:16:39 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:16:39 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:16:40 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:16:40 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:16:40 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:16:40 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:16:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/templates/contact/list.html".' in /var/www/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('js/templates/co...')
+#1 /var/www/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/quaero/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/quaero/js/templates/contact/list.html
+HTTP_REFERER=http://localhost/quaero/
+---
+2012/04/23 11:16:40 [trace] [system.CModule] Loading "errorHandler" application component
+2012/04/23 11:16:40 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:16:40 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:16:40 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:16:40 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/ContactController.php (9)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:16:40 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/User.php (21)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:16:40 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/User.php (21)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:16:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_user`
+in /var/www/quaero/protected/models/User.php (21)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:16:41 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /var/www/quaero/protected/models/User.php (21)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:16:41 [trace] [system.db.ar.CActiveRecord] User.findByPk()
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:16:41 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_user` `t` WHERE `t`.`id` IS NULL LIMIT 1
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:16:41 [error] [php] Trying to get property of non-object (/var/www/quaero/protected/controllers/ContactController.php:12)
+Stack trace:
+#0 /var/www/yii/framework/web/CController.php(287): ContactController->runAction()
+#1 /var/www/yii/framework/web/CController.php(266): ContactController->runActionWithFilters()
+#2 /var/www/yii/framework/web/CWebApplication.php(276): ContactController->run()
+#3 /var/www/yii/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#4 /var/www/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /var/www/quaero/index.php(16): CWebApplication->run()
+REQUEST_URI=/quaero/contact
+in /var/www/quaero/protected/controllers/ContactController.php (12)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:16:41 [trace] [system.CModule] Loading "errorHandler" application component
+in /var/www/quaero/protected/controllers/ContactController.php (12)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:07 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:07 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:07 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:07 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:07 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:07 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:08 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:08 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:08 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:08 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/ContactController.php (9)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:08 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/User.php (21)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:08 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/User.php (21)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:08 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_user`
+in /var/www/quaero/protected/models/User.php (21)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:08 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /var/www/quaero/protected/models/User.php (21)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:08 [trace] [system.db.ar.CActiveRecord] User.findByPk()
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:08 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_user` `t` WHERE `t`.`id` IS NULL LIMIT 1
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:08 [error] [php] Trying to get property of non-object (/var/www/quaero/protected/controllers/ContactController.php:12)
+Stack trace:
+#0 /var/www/yii/framework/web/CController.php(287): ContactController->runAction()
+#1 /var/www/yii/framework/web/CController.php(266): ContactController->runActionWithFilters()
+#2 /var/www/yii/framework/web/CWebApplication.php(276): ContactController->run()
+#3 /var/www/yii/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#4 /var/www/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /var/www/quaero/index.php(16): CWebApplication->run()
+REQUEST_URI=/quaero/contact
+in /var/www/quaero/protected/controllers/ContactController.php (12)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:08 [trace] [system.CModule] Loading "errorHandler" application component
+in /var/www/quaero/protected/controllers/ContactController.php (12)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:28 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:28 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:28 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:28 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/ContactController.php (9)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:28 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/User.php (21)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:28 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/User.php (21)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_user`
+in /var/www/quaero/protected/models/User.php (21)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /var/www/quaero/protected/models/User.php (21)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:28 [trace] [system.db.ar.CActiveRecord] User.findByPk()
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_user` `t` WHERE `t`.`id` IS NULL LIMIT 1
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:28 [error] [php] Trying to get property of non-object (/var/www/quaero/protected/controllers/ContactController.php:12)
+Stack trace:
+#0 /var/www/yii/framework/web/CController.php(287): ContactController->runAction()
+#1 /var/www/yii/framework/web/CController.php(266): ContactController->runActionWithFilters()
+#2 /var/www/yii/framework/web/CWebApplication.php(276): ContactController->run()
+#3 /var/www/yii/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#4 /var/www/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /var/www/quaero/index.php(16): CWebApplication->run()
+REQUEST_URI=/quaero/contact
+in /var/www/quaero/protected/controllers/ContactController.php (12)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:17:28 [trace] [system.CModule] Loading "errorHandler" application component
+in /var/www/quaero/protected/controllers/ContactController.php (12)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:18:32 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:18:32 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:18:32 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:18:32 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:18:32 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:18:32 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:18:32 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:18:32 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:18:32 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:18:33 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:18:34 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:18:34 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:18:34 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/ContactController.php (9)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:18:34 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/User.php (21)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:18:34 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/User.php (21)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:18:34 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_user`
+in /var/www/quaero/protected/models/User.php (21)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:18:34 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /var/www/quaero/protected/models/User.php (21)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:18:34 [trace] [system.db.ar.CActiveRecord] User.findByPk()
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:18:34 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_user` `t` WHERE `t`.`id` IS NULL LIMIT 1
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:18:34 [error] [php] Trying to get property of non-object (/var/www/quaero/protected/controllers/ContactController.php:12)
+Stack trace:
+#0 /var/www/yii/framework/web/CController.php(287): ContactController->runAction()
+#1 /var/www/yii/framework/web/CController.php(266): ContactController->runActionWithFilters()
+#2 /var/www/yii/framework/web/CWebApplication.php(276): ContactController->run()
+#3 /var/www/yii/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#4 /var/www/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /var/www/quaero/index.php(16): CWebApplication->run()
+REQUEST_URI=/quaero/contact
+in /var/www/quaero/protected/controllers/ContactController.php (12)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:18:34 [trace] [system.CModule] Loading "errorHandler" application component
+in /var/www/quaero/protected/controllers/ContactController.php (12)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:22:15 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:22:15 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:22:15 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:22:15 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:22:15 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:22:15 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:22:37 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:22:37 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:22:37 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:22:37 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:22:37 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:22:37 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:22:39 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:22:39 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:22:39 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:22:39 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:22:39 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:22:39 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:22:40 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:22:40 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:22:40 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:22:40 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:22:40 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:22:40 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:23:02 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:23:03 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:23:03 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:23:03 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:23:03 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:23:03 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:24:21 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:24:21 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:24:21 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:24:21 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:24:21 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:24:21 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:24:23 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:24:23 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:24:23 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:24:23 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:24:23 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:24:23 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:24:24 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:24:24 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:24:24 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:24:24 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:24:24 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:24:24 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:26:33 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:26:33 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:26:33 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:26:33 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:26:33 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:26:33 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:26:34 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:26:34 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:26:34 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:26:34 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/ContactController.php (9)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:26:34 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/User.php (21)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:26:34 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/User.php (21)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:26:34 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_user`
+in /var/www/quaero/protected/models/User.php (21)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:26:34 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /var/www/quaero/protected/models/User.php (21)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:26:34 [trace] [system.db.ar.CActiveRecord] User.findByPk()
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:26:34 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_user` `t` WHERE `t`.`id` IS NULL LIMIT 1
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:26:34 [error] [php] Trying to get property of non-object (/var/www/quaero/protected/controllers/ContactController.php:12)
+Stack trace:
+#0 /var/www/yii/framework/web/CController.php(287): ContactController->runAction()
+#1 /var/www/yii/framework/web/CController.php(266): ContactController->runActionWithFilters()
+#2 /var/www/yii/framework/web/CWebApplication.php(276): ContactController->run()
+#3 /var/www/yii/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#4 /var/www/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /var/www/quaero/index.php(16): CWebApplication->run()
+REQUEST_URI=/quaero/contact
+in /var/www/quaero/protected/controllers/ContactController.php (12)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:26:34 [trace] [system.CModule] Loading "errorHandler" application component
+in /var/www/quaero/protected/controllers/ContactController.php (12)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:28:10 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:28:10 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:28:10 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:28:10 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:28:10 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:28:10 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:28:11 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:28:11 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:28:11 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:28:11 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:28:11 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:28:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:28:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:28:11 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:28:11 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t`
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:30:58 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:30:58 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:30:58 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:30:58 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:30:58 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:30:58 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:31:03 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:31:03 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:31:03 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:31:03 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:31:03 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:31:03 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:34:29 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:34:29 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:34:29 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:34:29 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:34:29 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:34:29 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:36:06 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:36:06 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:36:06 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:36:06 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:36:06 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:36:06 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:45:02 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:45:02 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:45:02 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:45:02 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:45:02 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:45:02 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:48:49 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:48:49 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:48:49 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:48:49 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:48:49 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:48:49 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:49:20 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:49:20 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:49:20 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:49:20 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:49:20 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:49:20 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:50:06 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:50:06 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:50:06 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:50:06 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:50:06 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:50:06 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:52:24 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:52:24 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:52:24 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:52:24 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:52:24 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:52:24 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:53:22 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:53:22 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:53:22 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:53:22 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:53:22 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:53:22 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:53:34 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:53:34 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:53:34 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:53:34 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:53:34 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:53:34 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:54:00 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:54:00 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:54:00 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:54:00 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:54:00 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:54:00 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:54:42 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:54:42 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:54:42 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:54:42 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:54:42 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:54:42 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:58:05 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:58:05 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:58:05 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:58:05 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:58:05 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:58:05 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:59:21 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:59:21 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:59:21 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:59:21 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:59:21 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:59:21 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:59:40 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:59:40 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:59:40 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:59:40 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:59:40 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:59:40 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:59:54 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:59:54 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:59:54 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 11:59:54 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:59:54 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 11:59:54 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:00:21 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:00:21 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:00:21 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:00:21 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:00:21 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:00:21 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:01:49 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:01:49 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:01:49 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:01:49 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:01:49 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:01:49 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:02:08 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:02:08 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:02:08 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:02:08 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:02:08 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:02:08 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:02:38 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:02:38 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:02:38 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:02:38 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:02:38 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:02:38 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:03:24 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:03:24 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:03:24 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:03:24 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:03:24 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:03:24 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:04:55 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:04:55 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:04:55 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:04:55 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:04:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "im".' in /var/www/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('im')
+#1 /var/www/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/quaero/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/quaero/im
+HTTP_REFERER=http://localhost/quaero/
+---
+2012/04/23 12:04:55 [trace] [system.CModule] Loading "errorHandler" application component
+2012/04/23 12:04:59 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:04:59 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:04:59 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:04:59 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:04:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/small-".' in /var/www/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('img/small-')
+#1 /var/www/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/quaero/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/quaero/img/small-
+HTTP_REFERER=http://localhost/quaero/
+---
+2012/04/23 12:04:59 [trace] [system.CModule] Loading "errorHandler" application component
+2012/04/23 12:05:01 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:01 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:01 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:01 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/small-facebook0".' in /var/www/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('img/small-faceb...')
+#1 /var/www/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/quaero/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/quaero/img/small-facebook0
+HTTP_REFERER=http://localhost/quaero/
+---
+2012/04/23 12:05:01 [trace] [system.CModule] Loading "errorHandler" application component
+2012/04/23 12:05:02 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:02 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:02 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:02 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/small-facebook".' in /var/www/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('img/small-faceb...')
+#1 /var/www/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/quaero/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/quaero/img/small-facebook
+HTTP_REFERER=http://localhost/quaero/
+---
+2012/04/23 12:05:02 [trace] [system.CModule] Loading "errorHandler" application component
+2012/04/23 12:05:04 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:04 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:04 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:04 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/small-facebook-icon.pg".' in /var/www/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('img/small-faceb...')
+#1 /var/www/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/quaero/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/quaero/img/small-facebook-icon.pg
+HTTP_REFERER=http://localhost/quaero/
+---
+2012/04/23 12:05:04 [trace] [system.CModule] Loading "errorHandler" application component
+2012/04/23 12:05:05 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:05 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:05 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:05 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/small-facebook-icon.png".' in /var/www/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('img/small-faceb...')
+#1 /var/www/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/quaero/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/quaero/img/small-facebook-icon.png
+HTTP_REFERER=http://localhost/quaero/
+---
+2012/04/23 12:05:05 [trace] [system.CModule] Loading "errorHandler" application component
+2012/04/23 12:05:05 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:05 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:05 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:05 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/small-facebook-icon.png".' in /var/www/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('img/small-faceb...')
+#1 /var/www/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/quaero/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/quaero/img/small-facebook-icon.png
+HTTP_REFERER=http://localhost/quaero/
+---
+2012/04/23 12:05:05 [trace] [system.CModule] Loading "errorHandler" application component
+2012/04/23 12:05:07 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:07 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:07 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:07 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/small-facebook-icon.png".' in /var/www/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('img/small-faceb...')
+#1 /var/www/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/quaero/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/quaero/img/small-facebook-icon.png
+---
+2012/04/23 12:05:07 [trace] [system.CModule] Loading "errorHandler" application component
+2012/04/23 12:05:14 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:14 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:14 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:14 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/small-facebook-icon.png".' in /var/www/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('img/small-faceb...')
+#1 /var/www/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/quaero/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/quaero/img/small-facebook-icon.png
+---
+2012/04/23 12:05:14 [trace] [system.CModule] Loading "errorHandler" application component
+2012/04/23 12:05:16 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:16 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:16 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:16 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:05:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/small_facebook-icon.png".' in /var/www/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('img/small_faceb...')
+#1 /var/www/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/quaero/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/quaero/img/small_facebook-icon.png
+HTTP_REFERER=http://localhost/quaero/
+---
+2012/04/23 12:05:16 [trace] [system.CModule] Loading "errorHandler" application component
+2012/04/23 12:08:24 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:08:24 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:08:24 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:08:24 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:08:24 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:08:24 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:08:39 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:08:39 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:08:39 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:08:39 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:08:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ima".' in /var/www/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('ima')
+#1 /var/www/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/quaero/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/quaero/ima
+HTTP_REFERER=http://localhost/quaero/
+---
+2012/04/23 12:08:39 [trace] [system.CModule] Loading "errorHandler" application component
+2012/04/23 12:08:42 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:08:42 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:08:42 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:08:42 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:08:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/sma".' in /var/www/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('img/sma')
+#1 /var/www/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/quaero/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/quaero/img/sma
+HTTP_REFERER=http://localhost/quaero/
+---
+2012/04/23 12:08:42 [trace] [system.CModule] Loading "errorHandler" application component
+2012/04/23 12:08:44 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:08:44 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:08:44 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:08:44 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:08:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/small_facebook_".' in /var/www/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('img/small_faceb...')
+#1 /var/www/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/quaero/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/quaero/img/small_facebook_
+HTTP_REFERER=http://localhost/quaero/
+---
+2012/04/23 12:08:44 [trace] [system.CModule] Loading "errorHandler" application component
+2012/04/23 12:08:47 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:08:47 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:08:47 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:08:47 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:08:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/small_facebook_icon.p".' in /var/www/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('img/small_faceb...')
+#1 /var/www/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/quaero/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/quaero/img/small_facebook_icon.p
+HTTP_REFERER=http://localhost/quaero/
+---
+2012/04/23 12:08:47 [trace] [system.CModule] Loading "errorHandler" application component
+2012/04/23 12:09:47 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:09:47 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:09:47 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:09:47 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:09:47 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:09:47 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:09:48 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:09:48 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:09:48 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:09:48 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:09:48 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:09:48 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:10:03 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:10:03 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:10:03 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:10:03 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:10:03 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:10:03 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:10:51 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:10:51 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:10:51 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:10:51 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:10:51 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:10:51 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:14:20 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:14:20 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:14:20 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:14:20 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:14:20 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:14:20 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:14:23 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:14:23 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:14:23 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:14:23 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:14:23 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:14:23 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:15:00 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:15:00 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:15:00 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:15:00 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:15:00 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:15:00 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:15:44 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:15:44 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:15:44 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:15:44 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:15:44 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:15:44 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:17:51 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:17:51 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:17:51 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:17:51 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:17:51 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:17:51 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:17:52 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:17:52 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:17:52 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:17:52 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:17:52 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:17:52 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:17:52 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:17:52 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:17:52 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t`
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:19:36 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:19:36 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:19:36 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:19:36 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:19:36 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:19:36 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:19:37 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:19:37 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:19:37 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:19:37 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:19:37 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:19:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:19:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:19:37 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:19:37 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t`
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:20:59 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:20:59 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:20:59 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:20:59 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:20:59 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:20:59 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:21:00 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:21:00 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:21:00 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:21:00 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:21:00 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:21:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:21:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:21:01 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:21:01 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t`
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:22:13 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:22:13 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:22:13 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:22:13 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:22:13 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:22:13 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:22:15 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:22:15 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:22:15 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:22:15 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:22:15 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:22:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:22:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:22:15 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:22:15 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t`
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:23:18 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:23:18 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:23:18 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:23:18 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:23:18 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:23:18 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:23:20 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:23:20 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:23:20 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:23:20 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:23:20 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:23:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:23:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:23:20 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:23:20 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t`
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:25:27 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:25:27 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:25:27 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:25:27 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:25:27 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:25:27 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:25:28 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:25:28 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:25:28 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 12:25:29 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:25:29 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:25:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:25:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:25:29 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 12:25:29 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t`
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:10:31 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:10:31 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:10:31 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:10:32 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:10:32 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:10:32 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:10:34 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:10:34 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:10:34 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:10:34 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:10:34 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:10:34 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:10:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:10:35 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:10:35 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t`
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:29 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:29 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:29 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:29 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:29 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:29 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:31 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:31 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:31 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:31 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:31 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:31 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:31 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t`
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:55 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:55 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:55 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:55 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:55 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:55 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:56 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:56 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:56 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:56 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:56 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:56 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:12:56 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t`
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:14:06 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:14:06 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:14:06 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:14:06 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:14:06 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:14:06 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:14:07 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:14:07 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:14:07 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:14:07 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:14:07 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:14:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:14:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:14:07 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:14:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t`
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:15:11 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:15:11 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:15:11 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:15:11 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:15:11 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:15:11 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:15:13 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:15:13 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:15:13 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:15:13 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:15:13 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:15:13 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:15:13 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:15:13 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:15:13 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t`
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:05 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:05 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:05 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:05 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:05 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:05 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:07 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:07 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:07 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:07 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:07 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:07 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t`
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:34 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:34 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:34 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:34 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:34 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:34 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:35 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:35 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:35 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:35 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:35 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:35 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:16:35 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t`
+in /var/www/quaero/protected/controllers/ContactController.php (7)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:43 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:43 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:43 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:43 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:43 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:43 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:44 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:44 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:44 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:44 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:44 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:45 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:45 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t` LIMIT 10
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:54 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:54 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:54 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:54 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:54 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:54 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:55 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:55 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:55 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:55 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:55 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:55 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:18:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t` LIMIT 3
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:20:42 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:20:42 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:20:42 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:20:42 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:20:42 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:20:42 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:20:43 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:20:43 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:20:43 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:20:43 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:20:43 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:20:43 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:20:43 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:20:43 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:20:43 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t` LIMIT 3
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:00 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:00 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:00 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:00 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:00 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:00 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:01 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:01 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:01 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:01 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:01 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:01 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:01 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t` LIMIT 3
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:15 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:15 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:15 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:15 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:15 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:15 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:16 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:16 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:16 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:16 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:16 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:16 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:21:16 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t` LIMIT 10
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:22:10 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:22:10 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:22:10 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:22:10 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:22:10 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:22:10 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:22:11 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:22:11 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:22:11 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:22:11 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:22:11 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:22:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:22:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:22:12 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:22:12 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t` LIMIT 10
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:19 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:19 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:19 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:19 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:19 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:19 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:20 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:20 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:20 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:20 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:20 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:20 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:20 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t` LIMIT 10
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:44 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:44 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:44 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:44 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:44 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:44 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:45 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:45 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:45 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:45 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:45 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:45 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:24:45 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t` LIMIT 10
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:25:14 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:25:14 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:25:14 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:25:14 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:25:14 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:25:14 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:25:15 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:25:15 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:25:15 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:25:15 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:25:15 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:25:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:25:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:25:15 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:25:15 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t` LIMIT 10
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:26:01 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:26:01 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:26:01 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:26:01 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:26:01 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:26:01 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (21)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:26:13 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:26:13 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:26:13 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:26:13 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:26:13 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:26:13 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:26:15 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:26:15 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:26:15 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:26:15 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:26:15 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:26:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:26:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:26:15 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:26:15 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t` LIMIT 10
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:00 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:00 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:00 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:00 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:00 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:00 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:01 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:01 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:01 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:01 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:01 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:01 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:01 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t` LIMIT 10
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:13 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:13 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:13 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:13 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:13 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:13 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:14 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:14 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:14 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:14 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:14 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:14 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:14 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t` LIMIT 10
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:23 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:23 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:23 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:23 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:23 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:23 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:23 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:23 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:23 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:23 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:23 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:23 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:24 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:24 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:24 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:24 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:24 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:24 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:24 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t` LIMIT 10
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:54 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:54 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:54 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:54 [trace] [system.CModule] Loading "session" application component
+in /var/www/quaero/protected/controllers/SiteController.php (15)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:54 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/quaero/protected/views/layouts/column1.php (1)
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:54 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/quaero/protected/controllers/SiteController.php (18)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:55 [trace] [system.CModule] Loading "log" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:55 [trace] [system.CModule] Loading "request" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:55 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:55 [trace] [system.CModule] Loading "db" application component
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:55 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_contact`
+in /var/www/quaero/protected/models/Contact.php (33)
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:55 [trace] [system.db.ar.CActiveRecord] Contact.findAll()
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)
+2012/04/23 15:28:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_contact` `t` LIMIT 10
+in /var/www/quaero/protected/controllers/ContactController.php (10)
+in /var/www/quaero/index.php (16)

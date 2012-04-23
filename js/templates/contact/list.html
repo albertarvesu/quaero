@@ -1,0 +1,24 @@
+<%
+	var attr;
+	var name;
+	var fullName;
+
+	_.each(data.models, function each(contact) {
+		attr = contact.attributes;
+		name = attr.username || attr.name;
+		fullName = attr.first_name + " " + (attr.middle_name || "") + " " + attr.last_name;
+%>
+	<li class="clearfix">
+		<div class="pull-left pad-large">
+			<a href="<%= attr.link %>" title="<%= fullName %>">
+				<span class="sn-icon"><%= attr.provider %></span>
+				<img class="round-corners" src="<%= attr.picture %>" />
+			</a>
+		</div>
+		<div class="pull-left">
+			<a href="<%= attr.link %>" target="_blank" title="<%= fullName %>"><strong class="username"><%= name %></strong></a>
+			<em class="blk"><%= fullName %></em>
+		</div>
+	</li>
+<% }); %>
+

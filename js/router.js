@@ -2,7 +2,7 @@ define([
 	'jquery',
 	'underscore',
 	'backbone',
-	'view/userList'
+	'view/contactList'
 ], function($, _, Backbone, UserListView) {
 	var AppRouter = Backbone.Router.extend({
 		routes: {

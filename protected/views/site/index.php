@@ -66,14 +66,4 @@
 
 	</div>
 
-	<!--div class="row">
-		<div class="user-search">
-			<form class="well form-search">
-				<input type="text" class="input-medium search-query">
-				<button type="submit" class="btn">Search</button>
-			</form>
-			<ul class="search-results"></ul>
-		</div>
-	</div-->
-
 </div> <!-- end container -->

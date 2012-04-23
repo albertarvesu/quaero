@@ -7,6 +7,7 @@
 		<meta name="description" content="Facebook, Twitter, Search">
 		<meta name="author" content="">
 
+		<link href="<?php echo Yii::app()->request->baseUrl; ?>/css/reset.css" rel="stylesheet">
 		<link href="<?php echo Yii::app()->request->baseUrl; ?>/css/bootstrap.css" rel="stylesheet">
 		<style>
 			body {

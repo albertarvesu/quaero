@@ -2,17 +2,17 @@ define([
 	'jquery',
 	'underscore',
 	'backbone',
-	'collection/userCollection',
-	'text!templates/user/list.html'
+	'collection/contactCollection',
+	'text!templates/contact/list.html'
 	],
-	function($, _, Backbone, userCollection, usersListTemplate) {
-		var usersListView = Backbone.View.extend({
+	function($, _, Backbone, contactCollection, contactsListTemplate) {
+		var contactsListView = Backbone.View.extend({
 
-			el: ".user-search",
+			el: ".contact-search",
 			timeout: null,
 
 			initialize: function onInitialize() {
-				userCollection
+				contactCollection
 					.bind("reset", this.render, this)
 					.findAll();
 			},
@@ -31,15 +31,15 @@ define([
 				}
 
 				self.timeout = setTimeout(function() {
-					userCollection.findBySearch(value);
+					contactCollection.findBySearch(value);
 				}, 100);
 			},
 
-			render: function onRender(users) {
+			render: function onRender(contacts) {
 				$(this.el)
 					.find(".search-results")
-					.html( _.template(usersListTemplate, {"data":users}) )
+					.html( _.template(contactsListTemplate, {"data":contacts}) )
 			}
 		});
-		return new usersListView;
+		return new contactsListView;
 	});

@@ -4,12 +4,15 @@ class ContactController extends Controller
 {
 	public function actionIndex()
 	{
-		//$users = Contact::model()->findAll();
 
-		$user_id = Yii::app()->session['user_id'];
-		$user = User::model()->findByPk($user_id);
+		$criteria = new CDbCriteria;
+		$criteria->limit = 10;
+		$contacts = Contact::model()->findAll($criteria);
 
-		$contacts = $user->contacts;
+//		$user_id = Yii::app()->session['user_id'];
+//		$user = User::model()->findByPk($user_id);
+
+//		$contacts = $user->contacts;
 		$this->render('index', array('contacts'=>$contacts));
 	}
 

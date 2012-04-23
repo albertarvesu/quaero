@@ -2,20 +2,20 @@ define([
 	'jquery',
 	'underscore',
 	'backbone',
-	'model/userModel'
+	'model/contactModel'
 	],
 	function($, _, Backbone, UserModel) {
-		var userCollection = Backbone.Collection.extend({
+		var contactCollection = Backbone.Collection.extend({
 			model: UserModel,
 
 			url: '/quaero',
 
 			findAll: function onFindAll() {
-				this.find('/user');
+				this.find('/contact');
 			},
 
 			findBySearch: function onFindBySearch(param) {
-				this.find('/user/search/q/'+param);
+				this.find('/contact/search/q/'+param);
 			},
 
 			find: function find(api) {
@@ -30,6 +30,6 @@ define([
 			}
 		});
 
-		return new userCollection;
+		return new contactCollection;
 	});
 
